@@ -1,5 +1,0 @@
-demo-job-1:
-     tags:
-       - ci
-     script:
-       - echo Hello Automation Group!!
