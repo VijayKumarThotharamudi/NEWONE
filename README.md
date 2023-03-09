@@ -1,1 +1,1 @@
-# github-actions-example Demo on CI/Cd pipeline.
+# github-actions Demo on CI/Cd pipeline.
